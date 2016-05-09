@@ -1,0 +1,4 @@
+* chmod +x jescript.py
+* crontab -e
+* m h d m y /path/to/jescript.py
+* cp jescript.py /usr/bin/
